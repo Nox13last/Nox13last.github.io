@@ -28,7 +28,7 @@ bluesky_username: noxedwin
 github_username:  nox13last
 
 # Build settings
-theme: minima
+remote-theme: Nox13last/hacker
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
