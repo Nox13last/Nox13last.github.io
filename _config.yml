@@ -28,7 +28,7 @@ bluesky_username: noxedwin
 github_username:  nox13last
 
 # Build settings
-theme: hacker
+theme: hacker-theme
 plugins:
   - jekyll-feed
 
