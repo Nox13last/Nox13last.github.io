@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: The Shapes Museum
+title: "The Shapes Museum"
 email: noxedwin@outlook.com
-description: "Museum of Video Game Shape Research and Esoterica: Where shapes come alive."
-url: "https://Nox13last.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+description: "Museum of Video Game Shape Research and Esoterica - Where shapes come alive."
+url: https://Nox13last.github.io/
 twitter_username: Nox13last
 bluesky_username: noxedwin
 github_username:  nox13last
