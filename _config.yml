@@ -28,9 +28,9 @@ bluesky_username: noxedwin
 github_username:  nox13last
 
 # Build settings
-remote_theme: pages-themes/hacker@v0.2.0
+remote_theme: pages-themes/hacker
 plugins:
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme
   - jekyll-feed
 
 # Exclude from processing.
