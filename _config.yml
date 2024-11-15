@@ -21,14 +21,13 @@
 title: "The Shapes Museum"
 email: noxedwin@outlook.com
 description: "Museum of Video Game Shape Research and Esoterica: Where shapes come alive."
-baseurl: "" # the subpath of your site, e.g. /blog
 url: "/Nox13last.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Nox13last
 bluesky_username: noxedwin
 github_username:  nox13last
 
 # Build settings
-remote-theme: Nox13last/hacker
+remote_theme: pages-themes/hacker@v0.2.0
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
