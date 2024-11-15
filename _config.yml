@@ -28,10 +28,12 @@ bluesky_username: noxedwin
 github_username:  nox13last
 
 # Build settings
-remote_theme: pages-themes/hacker
+remote_theme: pages-themes/hacker@v0.2.0
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
+
+show_downloads: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.
